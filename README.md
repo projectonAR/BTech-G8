@@ -5,16 +5,16 @@
 
 ## Team Members:
 
-1. ### FirstName LastName: RollNo
-2. ### FirstName LastName: RollNo
-3. ### FirstName LastName: RollNo
-4. ### FirstName LastName: RollNo
+1. ### Harish Jat: 27
+2. ### Ganesh Murkute : 33
+3. ### Prithviraj Pawar: 39
+4. ### Vishwaraj Pawar: 40
 
 <hr>
 <br>
 
 ## Project Guide
-### Project Guide Name
+### Professer Mr.Mahesh.S.Salunkhe
 
 <hr>
 <br>
