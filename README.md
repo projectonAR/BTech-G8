@@ -14,7 +14,7 @@
 <br>
 
 ## Project Guide
-### Professer Mr.Mahesh.S.Salunkhe
+### Professer Mr.Mahesh S. Salunkhe
 
 <hr>
 <br>
